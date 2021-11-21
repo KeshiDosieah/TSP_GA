@@ -9,13 +9,6 @@ package tsp_main;
  *
  * @author DOSIEAH
  */
-public class TSP_Main {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Initial commit");
-    }
+public class TestFile {
     
 }
